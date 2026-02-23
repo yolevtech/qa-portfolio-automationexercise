@@ -36,3 +36,6 @@
 | CT-LOGIN-013 | Limite | Média | Login com e-mail no limite máximo de caracteres | Não autenticado | 1. Acessar o site 2. Clicar em Signup / Login 3. Informar e-mail com máx. de caracteres 4. Informar senha válida 5. Clicar em Login | Mensagem de erro de limite. Usuário permanece na página de login. Sem erros técnicos. | Não executado |
 | CT-LOGIN-014 | Negativo | Alta | Login com e-mail sem @ (formato inválido) | Não autenticado | 1. Acessar o site 2. Clicar em Signup / Login 3. Informar e-mail sem @ 4. Informar senha válida 5. Clicar em Login | Login bloqueado. Campo indica formato inválido. Usuário permanece na página. | Não executado |
 | CT-LOGIN-015 | Limite | Média | Login com e-mail em letras maiúsculas | Usuário cadastrado; Não autenticado | 1. Acessar o site 2. Clicar em Signup / Login 3. Informar e-mail em maiúsculas 4. Informar senha válida 5. Clicar em Login | Sistema trata e-mail como case-insensitive. Login bem-sucedido. Exibe: `Logged in as [username]` | Não executado |
+
+
+Obs: links de documentos completos no README
