@@ -83,9 +83,6 @@ Simular o trabalho real de um QA em um produto web, aplicando atividades comuns 
 
 ## 📌 Próximos Passos
 
-- [ ] Finalizar execução dos testes manuais
-- [ ] Registrar evidências
-- [ ] Abrir bug reports detalhados
 - [ ] Implementar automação com Cypress
 - [ ] Criar cenários BDD com Cucumber
 - [ ] Testes de API com Postman
